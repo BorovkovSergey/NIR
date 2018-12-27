@@ -1,0 +1,4 @@
+#define FIRST_PARAGRAPH 7
+#define MIDLE_PARAGRAPH 3
+#define LAST_PARAGRAPH 8
+

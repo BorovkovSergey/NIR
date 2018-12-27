@@ -1,0 +1,8 @@
+{
+ "model": "russian-syntagrus-ud-2.3-181115",
+ "acknowledgements": [
+  "http://ufal.mff.cuni.cz/udpipe#udpipe_acknowledgements",
+  "http://ufal.mff.cuni.cz/udpipe/models#universal_dependencies_23_models_acknowledgements"
+ ],
+ "result": ""
+}
